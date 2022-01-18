@@ -1,1 +1,2 @@
 text from gui
+text edited
